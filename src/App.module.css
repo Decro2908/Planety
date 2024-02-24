@@ -1,0 +1,15 @@
+/* App.module.css */
+.app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .planetListContainer {
+    flex: 1;
+  }
+  
+  .planetDetailContainer {
+    flex: 2;
+  }

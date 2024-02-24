@@ -1,0 +1,5 @@
+/* PlanetList.module.css */
+.planetList {
+    display: flex;
+    flex-wrap: wrap;
+  }

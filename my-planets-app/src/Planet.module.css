@@ -1,0 +1,14 @@
+/* Planet.module.css */
+.planet {
+    cursor: pointer;
+    padding: 10px;
+    margin: 5px;
+    background-color: #cce5ff;
+    border: 1px solid #b8daff;
+    border-radius: 5px;
+  }
+  
+  .planet:hover {
+    background-color: #b8daff;
+  }
+  
